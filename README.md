@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @nickolascerrilima
-- 👀 I’m interested in systems automation and IA
-- 🌱 I’m currently learning HTML, Python, C++ and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 😁 Oi, eu sou o Nickolas Lima!
+- 👀 Atualmente eu estou interessado em desenvolvimento de sites e apps.
+- 🎨 Eu estou aprendendo HTML e CSS.
+- 😎 Eu estou atualmente desenvolvendo um site com uma pequena equipe.
+- 📫 nickolasparaofuturo@gmail.com
 
-<!---
-nickolascerrilima/nickolascerrilima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolascerrilima&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolascerrilima&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
